@@ -1,1 +1,2 @@
 /Users/funsun/Desktop/FFmpegDemo/FFmpeg/FFmpeg/FFmpeg-iOS/lib/libavcodec.a filter=lfs diff=lfs merge=lfs -text
+/FFmpeg/FFmpeg-iOS/lib/libavcodec.a filter=lfs diff=lfs merge=lfs -text
